@@ -22,4 +22,7 @@ class A<T>{
     print(kkk);
   }
 
+
+
+
 }
